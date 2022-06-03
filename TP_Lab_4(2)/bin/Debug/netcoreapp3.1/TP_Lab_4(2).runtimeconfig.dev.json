@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zayce\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zayce\\.nuget\\packages",
+      "D:\\vs_sdk\\NuGetPackages"
+    ]
+  }
+}
